@@ -1,0 +1,27 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Local databases / SQLite / LiteDB files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite-journal
+
+# Operating System files
+.DS_Store
+Thumbs.db
